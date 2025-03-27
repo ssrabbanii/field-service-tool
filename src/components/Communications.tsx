@@ -65,7 +65,7 @@ const Communications: React.FC = () => {
       from: 'Mike Johnson', 
       email: 'mike.j@stark.com', 
       subject: 'Quote Request for New Equipment', 
-      preview: 'We're looking to upgrade our systems and would like to get a quote for new equipment...', 
+      preview: "We're looking to upgrade our systems and would like to get a quote for new equipment...", 
       time: 'Yesterday',
       read: true
     },
@@ -74,7 +74,7 @@ const Communications: React.FC = () => {
       from: 'Sarah Williams', 
       email: 's.williams@dailyplanet.com', 
       subject: 'Quarterly Maintenance Schedule', 
-      preview: 'It's time for our quarterly maintenance check. Can we schedule it for next week?', 
+      preview: "It's time for our quarterly maintenance check. Can we schedule it for next week?", 
       time: 'Jun 10',
       read: true
     },
@@ -83,7 +83,7 @@ const Communications: React.FC = () => {
       from: 'Robert Brown', 
       email: 'r.brown@lexcorp.com', 
       subject: 'Facility Inspection Request', 
-      preview: 'We're interested in having your team conduct an inspection of our facilities...', 
+      preview: "We're interested in having your team conduct an inspection of our facilities...", 
       time: 'Jun 8',
       read: true
     },
